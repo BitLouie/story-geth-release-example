@@ -25,3 +25,5 @@ const (
 	GWei  = 1e9
 	Ether = 1e18
 )
+
+// Hotfix change B
