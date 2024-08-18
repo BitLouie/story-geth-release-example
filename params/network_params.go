@@ -14,6 +14,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with the go-ethereum library. If not, see <http://www.gnu.org/licenses/>.
 
+// Some change for 0.9.2
 package params
 
 // These are network parameters that need to be constant between clients, but
