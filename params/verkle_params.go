@@ -16,6 +16,7 @@
 
 package params
 
+// Maintenance Release Change
 // Verkle tree EIP: costs associated to witness accesses
 var (
 	WitnessBranchReadCost  uint64 = 1900
